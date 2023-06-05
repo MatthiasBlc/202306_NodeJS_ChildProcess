@@ -1,0 +1,16 @@
+{
+  "name": "202306_nodejs_childprocess",
+  "version": "1.0.0",
+  "description": "## Table of contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "18.16.0"
+  }
+}
